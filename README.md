@@ -11,7 +11,9 @@ Designed for moving companies, lead marketplaces, and SaaS providers who want to
 ⚙️ Easy API-based configuration
 💼 Built for movers, agencies, and lead platforms
 📦 Installation
+
 Download or clone the repository:
+
 git clone https://github.com/YOUR_USERNAME/zenmove-crm-whmcs-module.git
 Upload to your WHMCS modules directory:
 /modules/servers/
@@ -44,22 +46,23 @@ Create Account (Provision)
 Suspend Account
 Unsuspend Account
 Terminate Account
+
 💡 Use Cases
 Moving companies offering CRM to franchisees
 Lead generation platforms managing clients
 Agencies reselling CRM access
 SaaS-style CRM businesses
+
 🛠 Requirements
 WHMCS 8+
 PHP 7.4+
 Active ZenMove API access
+
 🔐 Security
 API-based authentication
 No sensitive data stored locally
 Designed for secure provisioning workflows
-📄 License
 
-MIT License
 
 🌐 About ZenMove
 
