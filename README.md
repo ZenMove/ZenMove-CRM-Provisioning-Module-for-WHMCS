@@ -14,7 +14,6 @@ Designed for moving companies, lead marketplaces, and SaaS providers who want to
 
 Download or clone the repository:
 
-git clone https://github.com/YOUR_USERNAME/zenmove-crm-whmcs-module.git
 Upload to your WHMCS modules directory:
 /modules/servers/
 Log in to WHMCS Admin:
